@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+form {
+    background-color: white;
+    
+}
+
+h1 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+.jumbotron {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 6%;
+    background-color: white;
+    border: 1px solid #dddddd;
+}
+
+body {
+    background: url("../images/concrete_seamless.png");
+    
+}
+
+.form-control-lg {
+    width: 95%;
+    height: 300px;
+}
+
+.form-control-sm {
+    width: 95%;
+
+}
+
